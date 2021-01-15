@@ -2,8 +2,7 @@
 ![header](https://i.ibb.co/RTZ5DMH/readme-header.png)
 <img align="right" width="300px" height="auto" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-# Howdy y'all! <code><img height="20" src="https://freeiconshop.com/wp-content/uploads/edd/link-closed-flat.png"></code> - <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></code> - <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></code>
-
+# Howdy y'all! 🤠 
 <p>🍕 I’m currently working on a [Mint](https://mint.intuit.com/) lite clone using Next.js, TS, Chakra & Plaid API</p>
 <p>🍔 I’m currently learning TypeScript and Python</p>
 <p>🌯 I’d love to collaborate on front-end projects, AI, civic tech</p>
@@ -11,10 +10,8 @@
 <p>🍜 Ask me about art, justice, movies, journalism, and the future</p>
 <p>🥞 Pronouns: he/him/his</p>
 
-**Let's stay in touch:**
-<code><img height="20" src="https://freeiconshop.com/wp-content/uploads/edd/link-closed-flat.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></code>
+# <code><img height="20" src="https://freeiconshop.com/wp-content/uploads/edd/link-closed-flat.png"></code> - <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></code> - <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></code>
+
 
 <!-----
 **Languages and Tools:**  
