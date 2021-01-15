@@ -10,7 +10,7 @@
 🍝 I’m also in the middle of CS50x if you have any insights<br/>
 🍜 Ask me about art, justice, movies, journalism, and the future<br/>
 🥞 Pronouns: he/him/his<br/>
-
+<hr />
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
