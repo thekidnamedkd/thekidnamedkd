@@ -3,12 +3,13 @@
 <img align="right" width="450px" height="auto" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 # Howdy y'all! 🤠 
-<p>🍕 I’m currently working on a [Mint](https://mint.intuit.com/) lite clone using Next.js, TS, Chakra & Plaid API</p>
-<p>🍔 I’m currently learning TypeScript and Python</p>
-<p>🌯 I’d love to collaborate on front-end projects, AI, civic tech</p>
-<p>🍝 I’m looking for fellow CS50x students to chat with</p>
-<p>🍜 Ask me about art, justice, movies, journalism, and the future</p>
-<p>🥞 Pronouns: he/him/his</p>
+🍟 I’m currently working on a PWA for basic budgeting using Next.js, TS, Chakra & Plaid API<br/>
+🍔 Right now I'm learning TypeScript and Python<br/>
+🍱 I was recently accepted to [The Collab Lab](https://the-collab-lab.codes/) Winter 2020 Cohort<br/>
+🌯 I’d love to collaborate on front-end projects, AI, civic tech<br/>
+🍝 I’m also in the middle of CS50x if you have any insights<br/>
+🍜 Ask me about art, justice, movies, journalism, and the future<br/>
+🥞 Pronouns: he/him/his<br/>
 
 # <code><img height="20" src="https://freeiconshop.com/wp-content/uploads/edd/link-closed-flat.png"></code> - <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></code> - <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></code>
 
