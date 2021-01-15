@@ -1,6 +1,6 @@
 
 ![header](https://i.ibb.co/RTZ5DMH/readme-header.png)
-<img align="right" width="450px" height="auto" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" width="300px" height="auto" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 # Howdy y'all! <code><img height="20" src="https://freeiconshop.com/wp-content/uploads/edd/link-closed-flat.png"></code> - <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></code> - <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></code>
 
