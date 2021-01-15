@@ -1,6 +1,6 @@
 
 ![header](https://i.ibb.co/RTZ5DMH/readme-header.png)
-<img align="right" width="300px" height="auto" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" width="450px" height="auto" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 # Howdy y'all! 🤠 
 <p>🍕 I’m currently working on a [Mint](https://mint.intuit.com/) lite clone using Next.js, TS, Chakra & Plaid API</p>
