@@ -40,4 +40,3 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
