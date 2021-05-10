@@ -8,9 +8,9 @@
 <a href="https://open.spotify.com/user/kidnamedkd?si=DumBEjZPQTGVZVqIxdfgkg" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 
 # Howdy y'all! 🤠 
-🍟 I’m currently working on a PWA for basic budgeting using Next.js, TS, Chakra & Plaid API<br/>
-🍔 Right now I'm learning TypeScript and Python<br/>
-🍱 I was recently accepted to [The Collab Lab](https://the-collab-lab.codes/) Winter 2020 Cohort<br/>
+🍟 I’m currently working on a Web 3 dApp for [JOYWORLD](https://joyworld.space/)<br/>
+🍔 Right now I'm learning TypeScript while playing with Vue<br/>
+🍱 I was recently accepted to Gitcoin's [KERNEL](kernel.community/) fellowship in Web 3 theory<br/>
 🌯 I’d love to collaborate on front-end projects, AI, civic tech<br/>
 🍝 I’m also in the middle of CS50x if you have any insights<br/>
 🍜 Ask me about art, justice, movies, journalism, and the future<br/>
