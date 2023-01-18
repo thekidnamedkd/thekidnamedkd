@@ -1,5 +1,3 @@
-
-![header](https://i.ibb.co/RTZ5DMH/readme-header.png)
 <img align="right" width="450px" height="auto" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 <a href="https://www.linkedin.com/in/absphreak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -8,14 +6,14 @@
 <a href="https://open.spotify.com/user/kidnamedkd?si=DumBEjZPQTGVZVqIxdfgkg" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 
 # Howdy y'all! 🤠 
-🍟 I’m currently working on a Web 3 dApp for [JOYWORLD](https://joyworld.space/)<br/>
-🍔 Right now I'm learning TypeScript while playing with Vue<br/>
-🍱 I was recently accepted to Gitcoin's [KERNEL](kernel.community/) fellowship in Web 3 theory<br/>
-🌯 I’d love to collaborate on front-end projects, AI, civic tech<br/>
-🍝 I’m also in the middle of CS50x if you have any insights<br/>
-🍜 Ask me about art, justice, movies, journalism, and the future<br/>
+<br />
+🍟 I’m currently working on a web3 produts and creative coding<br/>
+🍔 Focused on digital and networked techologies, proliferating the meme<br/>
+🌯 I’d love to collaborate on creative fullstack projects, AI, civic tech<br/>
+🍜 Let's talk about art, justice, movies, journalism, and the basketball<br/>
 🥞 Pronouns: he/him/his<br/>
-<hr />
+<br />
+<br />
 
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
