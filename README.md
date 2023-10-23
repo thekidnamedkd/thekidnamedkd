@@ -29,8 +29,5 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=GraphQL)
 ![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=Jest)
 ![Cypress](https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=Cypress)
-![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
-![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
-![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
