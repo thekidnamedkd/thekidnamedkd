@@ -7,8 +7,8 @@
 
 # Howdy y'all! 🤠 
 <br />
-🍟 I’m currently working on a web3 produts and creative coding<br/>
-🍔 Focused on digital and networked techologies, proliferating the meme<br/>
+🍟 I’m currently working on a web3 products and creative coding<br/>
+🍔 Focused on media and networked techologies, proliferating the meme<br/>
 🌯 I’d love to collaborate on creative fullstack projects, AI, civic tech<br/>
 🍜 Let's talk about art, justice, movies, journalism, and basketball<br/>
 🥞 Pronouns: he/him/his<br/>
