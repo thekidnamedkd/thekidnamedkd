@@ -16,18 +16,15 @@
 <br />
 <br />
 
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=flat-square&logo=tailwind-css)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Postgres](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
 ![Next.js](https://img.shields.io/badge/-Next-black?style=flat-square&logo=Next.js)
-![Gatsby](https://img.shields.io/badge/-Gatsby-black?style=flat-square&logo=Gatsby)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=GraphQL)
 ![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=Jest)
-![Cypress](https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=Cypress)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+![Storybook](https://img.shields.io/badge/-Storybook-black?style=flat-square&logo=storybook)
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
