@@ -5,7 +5,7 @@
 <a href="https://www.twitter.com/thekidnamedkd" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=Twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://open.spotify.com/user/kidnamedkd?si=DumBEjZPQTGVZVqIxdfgkg" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 
-# Howdy y'all! 🤠 
+### Howdy y'all! 🤠 
 <br />
 🍟 I’m currently working on a web3 products and creative coding<br/>
 🍔 Focused on media and networked techologies, proliferating the meme<br/>
